@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "abc123.",
+      "name": "Maria",
+      "lastNames": "Fuentes Gomez"
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "password": "abc123.",
+      "name": "Lidia",
+      "lastNames": "Pascual Montesinos"
+    },
+    {
+      "id": 3,
+      "email": "user3@gmail.com",
+      "password": "abc123.",
+      "name": "Pedro",
+      "lastNames": "Lopez Monjardin"
+    },
+    {
+      "id": 4,
+      "email": "user4@gmail.com",
+      "password": "abc123.",
+      "name": "Marcos",
+      "lastNames": "Perez Garcia"
+    }
+  ]
+}
